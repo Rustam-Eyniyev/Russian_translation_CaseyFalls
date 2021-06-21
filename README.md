@@ -2,7 +2,7 @@
 
 day1
 -
-1_introduction.rpy - done
+1_introduction.rpy - done /n
 2_the_stranger.rpy - done
 
 day2
