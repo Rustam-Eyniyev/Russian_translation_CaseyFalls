@@ -3,7 +3,8 @@
 day1
 -
 1_introduction.rpy - done <br>
-2_the_stranger.rpy - done
+2_the_stranger.rpy - done <br>
+3_caseys_first_upskirt.rpy - done <br>
 
 day2
 -
