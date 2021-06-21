@@ -3,6 +3,7 @@
 day1
 -
 1_introduction.rpy - done
+2_the_stranger.rpy - done
 
 day2
 -
