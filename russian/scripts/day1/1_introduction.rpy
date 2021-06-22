@@ -46,7 +46,7 @@ translate russian day1_introduction_31d4f89e:
 translate russian day1_introduction_f0e85fe3:
 
     # "She was in the final year of her two year post-high school technical diploma, and graduation was now just months away. She'd chosen a career in Graphic Design, along with {color=#c9af06}her best friend Amelia{/color}. "
-    "Она была на последнем курсе техникума и до выпуска оставалось несколько месяцев. Она выбрала карьеру графического дизайнера вместе с {color=#c9af06}её лучшей подругой Амелией{/color}. "
+    "Она была на последнем курсе техникума и до выпуска оставалось несколько месяцев. Она выбрала карьеру графического дизайнера вместе с {color=#c9af06}своей лучшей подругой Амелией{/color}. "
 
 # game/scripts/day1/1_introduction.rpy:34
 translate russian day1_introduction_db175ad2:
@@ -88,7 +88,7 @@ translate russian day1_introduction_54444e16:
 translate russian day1_introduction_384a1a15:
 
     # "That factor was compounded by the formidable and staunchly conservative Principal Eunice Bernstein, who ruled the school with an iron fist."
-    "Этот фактор усугублялся также грозной и консервативной директрисой Юнис Бернстейн, которая управляла школой как железной рукой."
+    "Этот фактор усугублялся также грозной и консервативной директрисой Юнис Бернстайн, которая управляла школой как железной рукой."
 
 # game/scripts/day1/1_introduction.rpy:67
 translate russian gallery_day_1_showers_52663d19:

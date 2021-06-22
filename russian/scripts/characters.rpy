@@ -3,66 +3,66 @@
 translate russian strings:
 
     # game/scripts/characters.rpy:4
-    old "Кейси"
+    old "Casey"
     new "Кейси"
 
     # game/scripts/characters.rpy:5
-    old "Джолин"
+    old "Jolene"
     new "Джолин"
 
     # game/scripts/characters.rpy:6
-    old "Сью Рейн"
+    old "Sue Reine"
     new "Сью Рейн"
 
     # game/scripts/characters.rpy:7
-    old "Майкл Рейн"
+    old "Michael Reine"
     new "Майкл Рейн"
 
     # game/scripts/characters.rpy:10
-    old "Амелиа"
-    new "Амелиа"
+    old "Amelia"
+    new "Амелия"
 
     # game/scripts/characters.rpy:11
-    old "Грег"
+    old "Greg"
     new "Грег"
 
     # game/scripts/characters.rpy:14
-    old "Кассандра"
+    old "Cassandra"
     new "Кассандра"
 
     # game/scripts/characters.rpy:17
-    old "Миссис Дали"
-    new "Миссис Дали"
+    old "Mrs. Daly"
+    new "Миссис Дэли"
 
     # game/scripts/characters.rpy:18
-    old "Директриса Бернстейн"
-    new "Директриса Бернстейн"
+    old "Principal Bernstein"
+    new "Директриса Бернстайн"
 
     # game/scripts/characters.rpy:19
-    old "Мистер Стивенс"
+    old "Mr. Stephens"
     new "Мистер Стивенс"
 
     # game/scripts/characters.rpy:20
-    old "Профессор Бернард Оллам"
+    old "Professor Bernand Ollam"
     new "Профессор Бернард Оллам"
 
     # game/scripts/characters.rpy:23
-    old "Тара"
+    old "Tara"
     new "Тара"
 
     # game/scripts/characters.rpy:26
-    old "Незнакомец"
+    old "Stranger"
     new "Незнакомец"
 
     # game/scripts/characters.rpy:27
-    old "Марк Россо"
+    old "Mark Rosso"
     new "Марк Россо"
 
     # game/scripts/characters.rpy:28
-    old "Джиллиан"
+    old "Gillian"
     new "Джиллиан"
 
     # game/scripts/characters.rpy:31
-    old "Сакрилас"
+    old "Sakrilas"
     new "Сакрилас"
 
