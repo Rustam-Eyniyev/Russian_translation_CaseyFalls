@@ -32,7 +32,7 @@ translate russian strings:
 
     # game/scripts/characters.rpy:17
     old "Mrs. Daly"
-    new "Миссис Дэли"
+    new "Миссис Дэйли"
 
     # game/scripts/characters.rpy:18
     old "Principal Bernstein"

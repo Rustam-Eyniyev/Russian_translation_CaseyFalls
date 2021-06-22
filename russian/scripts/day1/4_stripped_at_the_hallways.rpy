@@ -214,7 +214,7 @@ translate russian day1_stripped_at_the_hallways_6e901ee3:
 translate russian day1_stripped_at_the_hallways_fa7421af:
 
     # "It was Mrs Daly."
-    "Это была миссис Дэли."
+    "Это была миссис Дэйли."
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:116
 translate russian day1_stripped_at_the_hallways_8f54477b:
@@ -232,7 +232,7 @@ translate russian day1_stripped_at_the_hallways_17d82866:
 translate russian day1_stripped_at_the_hallways_a1cd4ac6:
 
     # casey "Um... Please Mrs Daly. Someone took my skirt."
-    casey "Эм… Простите, миссис Дэли. Кто-то взял мою юбку."
+    casey "Эм… Простите, миссис Дэйли. Кто-то взял мою юбку."
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:121
 translate russian day1_stripped_at_the_hallways_472ba0c9:
@@ -274,7 +274,7 @@ translate russian day1_stripped_at_the_hallways_3bd418d1:
 translate russian day1_stripped_at_the_hallways_b83c31e1:
 
     # "Mrs Daly clearly didn't believe Casey's excuse."
-    "Миссис Дэли явно не поверила оправданию Кейси."
+    "Миссис Дэйли явно не поверила оправданию Кейси."
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:141
 translate russian day1_stripped_at_the_hallways_7d9e7865:
@@ -286,7 +286,7 @@ translate russian day1_stripped_at_the_hallways_7d9e7865:
 translate russian day1_stripped_at_the_hallways_18018e7d:
 
     # casey "Oh please Mrs Daly!"
-    casey "Ох, пожалуйста, миссис Дэли!"
+    casey "Ох, пожалуйста, миссис Дэйли!"
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:149
 translate russian day1_stripped_at_the_hallways_bb2812bf:
@@ -328,7 +328,7 @@ translate russian day1_stripped_at_the_hallways_5b5c4ac6:
 translate russian day1_stripped_at_the_hallways_104287d8:
 
     # casey "Oh no, Mrs Daly. It won't happen again. I promise."
-    casey "О, нет, миссис Дэли. Это больше не повторится. я обещаю."
+    casey "О, нет, миссис Дэйли. Это больше не повторится. я обещаю."
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:175
 translate russian day1_stripped_at_the_hallways_8ee3f094:
@@ -340,7 +340,7 @@ translate russian day1_stripped_at_the_hallways_8ee3f094:
 translate russian day1_stripped_at_the_hallways_623cad31:
 
     # "Mrs Daly departed and the three girls set off smartly to get to their classes."
-    "Миссис Дэли ушла, и девочки тоже пошли на занятия."
+    "Миссис Дэйли ушла, и девочки тоже пошли на занятия."
 
 # game/scripts/day1/4_stripped_at_the_hallways.rpy:187
 translate russian day1_stripped_at_the_hallways_1f7a1a9d:
